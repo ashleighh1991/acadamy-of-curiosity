@@ -20,4 +20,4 @@ export const auth = getAuth(app);
 // Initialize Cloud Firestore and get a reference to the service
 export const db = getFirestore(app);
 
-export default app;
+export default app;// Trigger rebuild
